@@ -14,3 +14,9 @@ Simon - HTML
 I learned quite a bit about button structure as well as table structure. Creating the actual SIMON play feature really
 pushed what I thought was possible for HTML. I am much more familiar with the different tags for tables and how to
 structure them in a way that is aesthetically pleasing. 
+
+Simon - CSS
+
+I now have a much better understanding of how to integrate regular CSS and Bootstrap at the same time. I have always
+had trouble using them both, prefering to use one or the other. Seeing them integrated has help me expand my view
+of what is possible with simple CSS.
