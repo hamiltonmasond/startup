@@ -20,3 +20,9 @@ Simon - CSS
 I now have a much better understanding of how to integrate regular CSS and Bootstrap at the same time. I have always
 had trouble using them both, prefering to use one or the other. Seeing them integrated has help me expand my view
 of what is possible with simple CSS.
+
+Simon - JavaScript
+Studying the code from the JS files has helped me have a better understanding of how promises are integrated into 
+projects. Using async has never been the easiest for me and seeing how it effects the HTML has given me ideas of 
+how to best integrate them into my start-up project.
+
