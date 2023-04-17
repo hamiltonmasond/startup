@@ -22,12 +22,21 @@ had trouble using them both, prefering to use one or the other. Seeing them inte
 of what is possible with simple CSS.
 
 Simon - JavaScript
+
 Studying the code from the JS files has helped me have a better understanding of how promises are integrated into 
 projects. Using async has never been the easiest for me and seeing how it effects the HTML has given me ideas of 
 how to best integrate them into my start-up project.
 
 Simon - Service
+
 I successfully deployed the code for the service aspect of the Simon project. I've found that after studying the code
 I feel like I have a better understanding of integrating Express into projects. As well as with the assignments, I feel like
 I can successfully integrate Node and Express into my start-up and any other projects I have done. Fetch APIs and using middleware
 with Express has been very useful.
+
+Simon - Database
+
+I successfully deployed the code for the database aspect of the Simon project. Databases are super useful and I've used lots of SQL
+at my current job. I've really appreciated getting to use a new type of database in Mongo and have found it to be more intuitive and
+easier to understand than SQL. Studying the code for the project and simply setting up the production environment were both great
+learning experiences
