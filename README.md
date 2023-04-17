@@ -26,3 +26,8 @@ Studying the code from the JS files has helped me have a better understanding of
 projects. Using async has never been the easiest for me and seeing how it effects the HTML has given me ideas of 
 how to best integrate them into my start-up project.
 
+Simon - Service
+I successfully deployed the code for the service aspect of the Simon project. I've found that after studying the code
+I feel like I have a better understanding of integrating Express into projects. As well as with the assignments, I feel like
+I can successfully integrate Node and Express into my start-up and any other projects I have done. Fetch APIs and using middleware
+with Express has been very useful.
