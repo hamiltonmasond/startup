@@ -43,7 +43,9 @@ learning experiences
 
 Simon - Login
 
-I sucessfully deployed the code for the database aspect of the Simon project. I was surprised at how easy setting up the login is 
+I sucessfully deployed the code for the login aspect of the Simon project. I was surprised at how easy setting up the login is 
 with Express and JavaScript. After studying the new code, I found it interesting how it integrate async/await into the process. I learned a lot about how you can use fetch and APIs to streamline database retrieval
 
+Simon - WebSocket
+I successfully deploy the code for the WebSocket aspect of the Simon project. It was really interesting how easy the switch from HTTPS to websocket is, and how it keeps connections really interested me as well. I really appreciate how the websocket is able to keep track of multiple connections and I find, based on the new code I studied, that it is a much more efficient means at maintain those connections over time.
 
