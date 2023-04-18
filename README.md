@@ -55,6 +55,7 @@ keep track of multiple connections and I find, based on the new code I studied, 
 those connections over time.
 
 Simon - React
+
 I successfully deployed the code for the React aspect of the Simon project. I've learned a lot about how to change the DOM with React and
 I've found it to be a lot easier than with straight JavaScript. Using the React router helps me better organize and manage my links
 and webpages and the Simon project has introduced me to a large array of methods to go about change the DOM and allowing for a better UI
