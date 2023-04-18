@@ -40,3 +40,10 @@ I successfully deployed the code for the database aspect of the Simon project. D
 at my current job. I've really appreciated getting to use a new type of database in Mongo and have found it to be more intuitive and
 easier to understand than SQL. Studying the code for the project and simply setting up the production environment were both great
 learning experiences
+
+Simon - Login
+
+I sucessfully deployed the code for the database aspect of the Simon project. I was surprised at how easy setting up the login is 
+with Express and JavaScript. After studying the new code, I found it interesting how it integrate async/await into the process. I learned a lot about how you can use fetch and APIs to streamline database retrieval
+
+
