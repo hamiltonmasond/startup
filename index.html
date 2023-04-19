@@ -4,6 +4,8 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Log In</title>
+
+        <script src="login.js"></script>
         <link rel="stylesheet" href="main.css" />
 
         <link
@@ -33,15 +35,17 @@
                 </menu>
             </nav>
         </header>
+
         <main class="container-fluid bg-light text-center text-dark">
             <div>
                 <h1>Enter the Great Outdoors</h1>
                 <form method="get" action="home.html">
                     <input type="text" id="name" placeholder="Username" />
-                    <button type="submit" class="btn btn-secondary">Login</button>
+                    <button type="submit" class="btn btn-secondary" onclick="login()">Login</button>
                 </form>
             </div>
         </main>
+
         <footer class="bg-dark text-primary">
             <div class="container-fluid">
                 <span class="text-reset">Mason Hamilton</span>
