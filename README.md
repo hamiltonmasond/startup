@@ -62,8 +62,15 @@ and webpages and the Simon project has introduced me to a large array of methods
 experience.
 
 Startup - HTML and CSS
-For the start of the project, I created four pages: the login page(index.html), the home page(home.html), the order/database page(db.html),
-and the chat/WebSocket page(ws.html). Each uses main.css as a stylesheet. The login page as a text entry space and a button that takes the user
+For the start of the project, I created four pages: the login page(index.html), the home page(home.html), the order/
+database page(db.html),and the chat/WebSocket page(ws.html). Each uses main.css as a stylesheet. The login page as 
+a text entry space and a button that takes the user
 to the home page. The home page introduces the user to the website and gives them the option to order certain outdoor gear items. Clicking an
 order button takes them to the order page, where you can find their order and others (as of now it is just a constant table, it is not updated).
 The chat page is very simple as of now, just having a simple text box and prompt for the user.
+
+Startup - JavaScript
+I created 4 .js files for this section: login.js, index.js, home.js, db.js, and ws.js. If I'd given myself more
+time to work on the project I would have been able to expand on each of these, however, I was only able to start
+efforts on the login feature. Theoretically it should save the typed username to local storage and display 
+it on the home page, but I was unable to achieve this functionality.

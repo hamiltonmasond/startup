@@ -1,7 +1,7 @@
 class Home {
 
     constructor() {
-        const givenName = document.querySelector('.user-name');
+        const givenName = document.querySelector('.username');
         givenName.textContent = this.getUsername();
     }
 
