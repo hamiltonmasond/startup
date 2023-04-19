@@ -6,6 +6,6 @@ class Home {
     }
 
     getUsername() {
-        return localStorage.getItem('username') ?? 'Mystery player';
+        return localStorage.getItem('userName') ?? 'Mystery player';
     }
 }
