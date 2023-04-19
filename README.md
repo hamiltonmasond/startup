@@ -60,3 +60,10 @@ I successfully deployed the code for the React aspect of the Simon project. I've
 I've found it to be a lot easier than with straight JavaScript. Using the React router helps me better organize and manage my links
 and webpages and the Simon project has introduced me to a large array of methods to go about change the DOM and allowing for a better UI
 experience.
+
+Startup - HTML and CSS
+For the start of the project, I created four pages: the login page(index.html), the home page(home.html), the order/database page(db.html),
+and the chat/WebSocket page(ws.html). Each uses main.css as a stylesheet. The login page as a text entry space and a button that takes the user
+to the home page. The home page introduces the user to the website and gives them the option to order certain outdoor gear items. Clicking an
+order button takes them to the order page, where you can find their order and others (as of now it is just a constant table, it is not updated).
+The chat page is very simple as of now, just having a simple text box and prompt for the user.
