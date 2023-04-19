@@ -40,3 +40,16 @@ body {
   footer a {
     float: right;
   }
+
+  .select {
+    padding-bottom: 5px;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+
+  .flex-container > form {
+    margin: 10px;
+    padding: 20px;
+  }
